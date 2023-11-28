@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search">Search Photo</string>
+    <string name="clear_search">Clear Search</string>
+    <string name="notification_channel_name">Background updates</string>
+</resources>
